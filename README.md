@@ -1,5 +1,4 @@
-## If you are on GitHub this is a mirror, the original repository with the latest updates is at [https://forgejo.neoeden.org/ergo/pleroma-image-bot](https://forgejo.neoeden.org/ergo/pleroma-image-bot
-)
+## If you are on GitHub this is a mirror, the original repository with the latest updates is at [https://forgejo.neoeden.org/ergo/pleroma-image-bot](https://forgejo.neoeden.org/ergo/pleroma-image-bot)
 ---
 
 Posts images from a directory to a fediverse account, to be triggered by a cronjob.
